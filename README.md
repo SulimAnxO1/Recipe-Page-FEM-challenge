@@ -1,6 +1,6 @@
 # 🍳📖 Recipe Page
 
-A beautifully designed **Recipe Page** built using **HTML** and **CSS**. Showcases a delicious dish with clear instructions, ingredients, and preparation steps — all presented in a clean, modern layout. (Frontend Mentor Challenge)
+A beautifully designed **Recipe Page** built using **HTML** and **CSS**. Showcases a delicious dish with clear instructions, ingredients, and preparation steps, all presented in a clean, modern layout. (Frontend Mentor Challenge)
 
 ---
 
