@@ -4,12 +4,6 @@ A beautifully designed **Recipe Page** built using **HTML** and **CSS**. Showcas
 
 ---
 
-## 🚀 Live Demo
-
-### 🌐 [**Live Site**](https://recipe-page-fem-xo1.netlify.app/)
-
----
-
 ## 🖼️ Preview
 
 ### 💻 Desktop Preview
